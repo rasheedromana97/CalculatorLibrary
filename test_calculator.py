@@ -1,4 +1,3 @@
-#The prefix "test" in the name of the file is important because that is how pytest will know to conduct unit tests.
 """
 Unit tests for the calculator library
 """
